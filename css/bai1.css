@@ -1,0 +1,47 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+.all{
+    display: flex;
+}
+.add{
+    border: 1px solid black;
+    width: 33%;
+    height: 30px;
+    text-align: center;
+    font-size: 30px;
+    font-weight: bold;
+    border: 1px solid black;
+    margin: 0px 250px; 
+    border-radius: 5px;
+    cursor: pointer;
+    padding: 30px;
+}
+.kq{
+    border: 1px solid black;
+    width: 33%;
+    height: 30px;
+    text-align: center;
+    font-size: 30px;
+    font-weight: bold;
+    border: 1px solid black;
+    margin: 0px 250px; 
+    border-radius: 5px;
+    cursor: pointer;
+    padding: 30px;
+}
+.sub{
+    border: 1px solid black;
+    width: 33%;
+    height: 30px;
+    text-align: center;
+    font-size: 30px;
+    font-weight: bold;
+    border: 1px solid black;
+    margin: 0px 250px; 
+    border-radius: 5px;
+    cursor: pointer;
+    padding: 30px;
+}
